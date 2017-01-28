@@ -6,7 +6,7 @@ This method is intended to in many cases replace the string type's similar metho
     {
         int end2Use = end;
         int source_max = source.Length - 1;
-        if ( end2Use > source_max - 1 ) end2Use = source_max;
+        if ( end2Use > source_max ) end2Use = source_max;
         return source.Substring(start, end2Use - start);
     }
 
