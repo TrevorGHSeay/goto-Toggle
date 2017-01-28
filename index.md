@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About: goto - Toggle
 
-You can use the [editor on GitHub](https://github.com/TrevorGHSeay/goto-Toggle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, and welcome to my repository. Here you will find a collected assortment of associated projects and tutorials I hope others might find useful, for to learn or to consider the writer for a hired position. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The pages titled "Projects" and "Practice" are dedicated to displaying the varying sorts of programming I myself work on regularily, as well as suggested notes / snippets for new software engineers getting into the business of full stack development.
 
-### Markdown
+If you have any questions or feedback regarding my page, past / previous work or to express interest in a new project, you can visit the Contact section for more information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### So You're Interested
 
-```markdown
-Syntax highlighted code block
+Glad to hear! Below is a list of hyperlinks to various portions of the page you might find useful, depending on your reasons for being here:
 
-# Header 1
-## Header 2
-### Header 3
+#### You're Hiring or Looking to Collaborate
+1. Head over to the [Projects]() section to get a better feel for what it is I do exactly.
+2. Once you're familiar with what I could bring your project / company, head over to the [Contact]() portion for the various ways you can get a hold of me promptly, and securely.
 
-- Bulleted
-- List
+#### You're Getting into the Biz
+  Check out the [Practice]() section to get started learning to program, bettering your understanding and / or adding those finishing touches to get your projects up and running.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrevorGHSeay/goto-Toggle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  ##### Tutorials
