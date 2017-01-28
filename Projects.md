@@ -5,7 +5,7 @@ Below you will find two lists of completed and ongoing products accredited to me
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/index)
 
-## Completed
+### Completed
 
 #### [Cosmos Master](https://trevorghseay.github.io/goto-Toggle/CosmosMaster)
 **_A Universe Within Worlds_**
@@ -13,7 +13,7 @@ Below you will find two lists of completed and ongoing products accredited to me
 #### [The Alder Method](https://trevorghseay.github.io/goto-Toggle/TheAlderMethod)
 **_Plain English Programming_**
 
-## Ongoing
+### Ongoing
 
 #### [Content Hidden](https://trevorghseay.github.io/goto-Toggle/ContentHidden)
 **_A New Venture_**
