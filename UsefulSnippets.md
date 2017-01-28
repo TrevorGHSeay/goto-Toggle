@@ -4,7 +4,7 @@ Below are a collection of useful snippets, wrappers and  that I've created perso
 
 If you have any feedback about how some of these might be made better, please don't hesitate to share by [contacting me](https://trevorghseay.github.io/goto-Toggle/Contact).
 
-**[SubstringTo()](https://trevorghseay.github.io/goto-Toggle/SubstringTo)**
+**[SubstringBetween()](https://trevorghseay.github.io/goto-Toggle/SubstringBetween)**
 
 **[RichTextBetween()](https://trevorghseay.github.io/goto-Toggle/RichTextBetween)**
 
