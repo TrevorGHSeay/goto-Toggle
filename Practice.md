@@ -18,3 +18,5 @@ I don't intend to cover the very basics of what most things _are_, so much as wh
 **[List of Tutorials, In Order](https://trevorghseay.github.io/goto-Toggle/Tutorials)**
 
 **[List of Useful Snippets, By Relevance](https://trevorghseay.github.io/goto-Toggle/UsefulSnippets)**
+
+[Go Back](https://trevorghseay.github.io/goto-Toggle/index)
