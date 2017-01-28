@@ -14,7 +14,7 @@ Glad to hear! Below is a list of hyperlinks to various portions of the page you 
 
 #### You're Hiring or Looking to Collaborate
 1. Head over to the [Projects](https://trevorghseay.github.io/goto-Toggle/Projects) section to get a better feel for what it is I do exactly.
-2. Once you're familiar with what I could bring your project / company, head over to the [Contact]() portion for the various ways you can get a hold of me promptly, and securely.
+2. Once you're familiar with what I could bring your project / company, head over to the [Contact](https://trevorghseay.github.io/goto-Toggle/Contact) portion for the various ways you can get a hold of me promptly, and securely.
 
 
 #### You're Getting into the Biz
