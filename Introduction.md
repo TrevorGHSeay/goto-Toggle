@@ -23,9 +23,10 @@ An example that might be given is making a machine 'remember' something. Without
 As you can see, it's far simpler than the engineering of a processor leads the programmer to believe, but with the above line you would now, under the appropriate conditions, be permitted to recall this information and, say, display it in a Command Prompt window:
 
 ``Console.WriteLine(Greeting);
+
 Console.ReadLine();``
 
-As confusing as it might seem, every single character in the lines I've shown is necessary and serves a vital purpose in how a computer might interpret what's been written.
+As confusing as it might seem, every single character in the lines I've shown are necessary and serve a vital purpose in how a computer might interpret what's been written.
 
 ### How do I know what stuff to write?
 
