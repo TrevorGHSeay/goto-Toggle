@@ -1,6 +1,10 @@
 # Projects
 Below you will find two lists of completed and ongoing products accredited to me and that I have personally worked on myself.
 
+[Contact Me](https://trevorghseay.github.io/goto-Toggle/Contact)
+
+[Go Back](https://trevorghseay.github.io/goto-Toggle/index)
+
 ## Completed
 
 ### [The Alder Method](https://trevorghseay.github.io/goto-Toggle/TheAlderMethod)
