@@ -9,7 +9,7 @@ This method is used to print a 2D array (of any object-inherited data type that 
         foreach (object element in array_to_print)
         {
             if ( (element as iConvertible) != null )
-                toReturn += array_placeholder.ToString() + ". " + element.ToString();
+                toReturn += array_placeholder.ToString() + ". " + (element as IConvertible).ToString();
             else 
                 toReturn += array_placeholder.ToString() + ". *Value Inconvertible*";
             if (array_placeholder < array_length) 
