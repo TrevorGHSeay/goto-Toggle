@@ -12,13 +12,13 @@ This method is used to print a 2D array (of any object-inherited data type that 
                 toReturn += array_placeholder.ToString() + ". " + element.ToString();
             else 
                 toReturn += array_placeholder.ToString() + ". *Value Inconvertible*";
-
-            if (array_placeholder < array_length) toReturn += Environment.NewLine;
+            if (array_placeholder < array_length) 
+                toReturn += Environment.NewLine;
             ++ array_placeholder;
         }
         return toReturn;
     }
 
 
-
+`` ``
 [Go Back](https://trevorghseay.github.io/goto-Toggle/UsefulSnippets)
