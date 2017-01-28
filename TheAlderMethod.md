@@ -8,8 +8,4 @@ This not only saves users time but money, hassle and the sense of dependence one
 
 [Marketplace Listing](https://marketplace.secondlife.com/p/The-Alder-Method-Enterprise/8832430)
 
-
-
-
-
-[Go Back](Projects)
+[Go Back](https://trevorghseay.github.io/goto-Toggle/Projects)
