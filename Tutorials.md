@@ -5,7 +5,7 @@ Below are a list of sequencial jumpstarter explanations I've put together to giv
 Thanks for showing interest!
 
 
-[Introduction](https://trevorghseay.github.io/goto-Toggle/Introduction)
+**[Introduction](https://trevorghseay.github.io/goto-Toggle/Introduction)**
 
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Practice)
