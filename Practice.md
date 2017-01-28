@@ -15,6 +15,6 @@ So - in hopes my image is maintained through my choice in language - I'll move o
 
 I don't intend to cover the very basics of what most things _are_, so much as what they do and why we might benefit from differentiating distinct differences in each constituent's characteristics from others. If you're looking to understand the fundamentals of what a programming language is and how it's used to interact with a machine on a more intimate level, then I can refer you to [wikipedia](https://en.wikipedia.org/wiki/Programming_language) and an hour of light reading as a good place to start.
 
-### List of Tutorials, In Order
+**[List of Tutorials, In Order]()**
 
-### List of Useful Snippets by Relevance
+**[List of Useful Snippets, By Relevance]()**
