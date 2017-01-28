@@ -1,6 +1,6 @@
 ### SubstringBetween
 
-This method is intended to in many cases replace the string type's similar method, 'Substring', by allowing the designation of an end index instead of a count from start.
+This method is intended to in many cases replace the string type's similar method, 'Substring', by allowing the designation of an end index instead of a count from start. If the end index is greater than than the length of the string, it defaults to the full length of the string.
 
     string SubstringBetween(string source, int start, int end)
     {
