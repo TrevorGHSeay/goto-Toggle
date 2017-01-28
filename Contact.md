@@ -4,7 +4,7 @@
 Thanks for stopping by!
 
 #### Professional Contact Info
-[trevorghseay@gmail.com](gmail.com)
+[trevorghseay@gmail.com](mailto:)
 
 #### Personal Contact Info
 []()
