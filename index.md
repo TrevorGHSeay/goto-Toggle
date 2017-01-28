@@ -13,14 +13,14 @@ Glad to hear! Below is a list of hyperlinks to various portions of the page you 
 
 
 #### You're Hiring or Looking to Collaborate
-1. Head over to the [Projects]() section to get a better feel for what it is I do exactly.
+1. Head over to the [Projects](https://trevorghseay.github.io/goto-Toggle/Projects) section to get a better feel for what it is I do exactly.
 2. Once you're familiar with what I could bring your project / company, head over to the [Contact]() portion for the various ways you can get a hold of me promptly, and securely.
 
 
 #### You're Getting into the Biz
-Check out the [Practice]() section to get started learning to program, bettering your understanding and / or adding those finishing touches to get your projects up and running.
+Check out the [Practice](https://trevorghseay.github.io/goto-Toggle/Practice) section to get started learning to program, bettering your understanding and / or adding those finishing touches to get your projects up and running.
 
 1. Tutorials
-[Tutorials]() are a great way to get a better understanding for how intricate formulations work, which is why every example provided is detailed intricately within the premise that the reader holds only a loose grasp on the subjected language. 
+[Tutorials](https://trevorghseay.github.io/goto-Toggle/Tutorials) are a great way to get a better understanding for how intricate formulations work, which is why every example provided is detailed intricately within the premise that the reader holds only a loose grasp on the subjected language. 
 2. Useful Snippets
-Likewise, there are also some [Useful Snippets]() (both in-context and practical) for a few subjects the writer deems interesting or -as implied- potentially useful to you, the reader.
+Likewise, there are also some [Useful Snippets](https://trevorghseay.github.io/goto-Toggle/UseFulSnippets) (both in-context and practical) for a few subjects the writer deems interesting or -as implied- potentially useful to you, the reader.
