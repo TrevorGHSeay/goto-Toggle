@@ -1,8 +1,8 @@
-## Projects
+# Projects
 
-### Completed
+## Completed
 
-#### [Cosmos Master](trevorGHseay.github.io/goto-Toggle/Projects)
+### [Cosmos Master](https://trevorghseay.github.io/goto-Toggle/)
 A Universe Within Worlds  
 
-### Ongoing
+## Ongoing
