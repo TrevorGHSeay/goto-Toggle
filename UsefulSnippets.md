@@ -8,4 +8,6 @@ If you have any feedback about how some of these might be made better, please do
 
 **[RichTextBetween](https://trevorghseay.github.io/goto-Toggle/RichTextBetween)**
 
+**[Print2DArray](https://trevorghseay.github.io/goto-Toggle/Print2DArray)**
+
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Practice)
