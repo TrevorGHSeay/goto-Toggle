@@ -10,3 +10,5 @@ Please leave all professional questions (hiring, project discussion, contract ar
 
 #### Personal Contact Info
 []()
+
+[Home Page](https://trevorghseay.github.io/goto-Toggle/index)
