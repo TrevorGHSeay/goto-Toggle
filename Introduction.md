@@ -20,14 +20,16 @@ An example that might be given is making a machine 'remember' something. Without
 
 ``string Greeting = "Hello, World!";``
 
-As you can see, it's far simpler than the engineering of a processor leads the programmer to believe, but with the above line you would now, under the appropriate conditions, be permitted to recall this information and, say, display it in a Command Prompt window:
+As you can see, it's far simpler than the engineering of a processor leads the programmer to believe, but with the above line you would now, under the appropriate conditions, be permitted to recall this information and, say, display it in a Command Prompt window, and show itself until someone enters a reply:
 
-``Console.WriteLine(Greeting);
+``Console.WriteLine(Greeting);``
 
-Console.ReadLine();``
+``Console.ReadLine();``
 
 As confusing as it might seem, every single character in the lines I've shown are necessary and serve a vital purpose in how a computer might interpret what's been written.
 
 ### How do I know what stuff to write?
+
+Check out the **[next tutorial](https://trevorghseay.github.io/goto-Toggle/Scopes)**!
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Tutorials)
