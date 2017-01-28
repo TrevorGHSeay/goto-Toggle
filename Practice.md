@@ -1,6 +1,6 @@
 ## Hello, World.
 
-You've heard it before; but do you know what it means? 
+You've heard it before; but what does it mean? 
 
 In this section I'll be covering some intricate basics that every beginner might need to know about programming in general, but I'll be using C# in doing it.
 
