@@ -6,3 +6,5 @@ This method is meant to be used as a wrapper for to grab the text string between
     {
           return new Textrange(start, end).Text;
     }
+
+[Go Back](https://trevorghseay.github.io/goto-Toggle/UsefulSnippets)
