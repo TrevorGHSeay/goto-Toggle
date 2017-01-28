@@ -12,6 +12,19 @@ Code - in its most core sense - is the typed interface from which a digital comp
 
 This (as you may have seen on the previous page) is performed ordinarily in one step by a compiler program, but C# - and several other languages - have the novel ability in being designed to be first compiled to bytecode before being again compiled, this time into machine code. Because of this difference, C# compiles on most machines second and so has a certain security in the time invested learning it. This, and because it's the language I'm most comfortable with, are why I'm using it in the page's [tutorials](https://trevorghseay.github.io/goto-Toggle/Tutorials)' and [useful snippets](https://trevorghseay.github.io/goto-Toggle/Projects)' pages here on GitHub.
 
-### So How do you control it?
+### So how do you control it?
+
+Well, here's the interesting thing: you kind of make it up as you go along, but with an immovable line of rules that need be followed for consistent success. 
+
+An example that might be given is making a machine 'remember' something. Without detailing how or why this works just yet, so as to spark your newfound curiosity, I'll provide a simple snippet that would be used to recall a piece of memory later:
+
+``string Greeting = "Hello, World!";``
+
+As you can see, it's far simpler than the engineering of a processor leads the programmer to believe, but with the above line you would now, under the appropriate conditions, be permitted to recall this information and, say, display it in a Command Prompt window:
+
+``Console.WriteLine(Greeting);
+Console.ReadLine();``
+
+As confusing as it might seem, every single character in the lines I've shown is necessary and serves a vital purpose in how a computer might interpret what's been written.
 
 ### How do I know what stuff to write?
