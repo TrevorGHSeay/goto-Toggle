@@ -4,7 +4,7 @@ This method is meant to be used as a wrapper for to grab the text string between
 
     string RichTextBetween(TextPointer start, Textpointer end)
     {
-          return new Textrange(start, end).Text;
+        return new Textrange(start, end).Text;
     }
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/UsefulSnippets)
