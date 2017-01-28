@@ -8,10 +8,10 @@ While Cosmos Master is still under development - with adding content, the commun
 
 Thank you all for those who have gotten us this far.
 
-[Facebook Page](https://www.facebook.com/CosmosMasterGame/)
+**[Facebook Page](https://www.facebook.com/CosmosMasterGame/)**
 
-[Website](https://cosmosmaster.com)
+**[Website](https://cosmosmaster.com)**
 
-[Wiki](https://cosmosmaster.com/wiki)
+**[Wiki](https://cosmosmaster.com/wiki)**
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Projects)
