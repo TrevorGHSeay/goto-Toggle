@@ -7,6 +7,6 @@ This method is meant to be used as a wrapper for to grab the text string between
 
 ``{``
 
-``return new Textrange(start, end).Text;``
+        return new Textrange(start, end).Text;
 
 ``}``
