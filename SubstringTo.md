@@ -3,6 +3,6 @@
 
 ``{``
 
-``return source.Substring(start, end - start);
+``return source.Substring(start, end - start);``
 
 ``}``
