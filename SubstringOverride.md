@@ -1,7 +1,0 @@
-
-``override Substring(){
-
-  a
-    a
-
-}``
