@@ -11,11 +11,10 @@ and so the following might be considered an apt representation for what happens 
       I just used a colon
       {
         a semi-colon too
+        
+        and now a comma
         {
-          and now a comma
-          {
-            but at least I ended the sentence with a period
-          }
+          but at least I ended the sentence with a period
         }
       }
     }
