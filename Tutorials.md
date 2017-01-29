@@ -8,5 +8,7 @@ Thanks for showing interest!
 
 **[Introduction](https://trevorghseay.github.io/goto-Toggle/Introduction)**
 
+**[Scopes](https://trevorghseay.github.io/goto-Toggle/Scopes)**
+
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Practice)
