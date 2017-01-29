@@ -9,14 +9,14 @@ and so the following might be considered an apt representation for what happens 
     Consider this
     {
       I just used a colon
-      {
-        a semi-colon too
+      
+      a semi-colon too
         
-        and now a comma
-        {
-          but at least I ended the sentence with a period
-        }
+      and now a comma
+      {
+        but at least I ended the sentence with a period
       }
+      
     }
     
 Similarly, the process for visualizing statements to be answered and their conclusions can be written in like kind:
