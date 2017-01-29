@@ -18,13 +18,12 @@ Well, here's the interesting thing: you kind of make it up as you go along, but 
 
 An example that might be given is making a machine 'remember' something. Without detailing how or why this works just yet, so as to spark your newfound curiosity, I'll provide a simple snippet that would be used to recall a piece of memory later:
 
-``string Greeting = "Hello, World!";``
+    string Greeting = "Hello, World!";
 
 As you can see, it's far simpler than the engineering of a processor leads the programmer to believe, but with the above line you would now, under the appropriate conditions, be permitted to recall this information and, say, display it in a Command Prompt window, and show itself until someone enters a reply:
 
-``Console.WriteLine(Greeting);``
-
-``Console.ReadLine();``
+    Console.WriteLine(Greeting);
+    Console.ReadLine();
 
 As confusing as it might seem, every single character in the lines I've shown are necessary and serve a vital purpose in how a computer might interpret what's been written.
 
