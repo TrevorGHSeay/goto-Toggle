@@ -2,7 +2,7 @@
 
 Hello, and welcome to my repository. Here you will find a collected assortment of associated projects and tutorials I hope others might find useful, for to learn or to consider the writer for a hired position. 
 
-The pages titled "Projects" and "Practice" are dedicated to displaying the varying sorts of programming I myself work on regularily, as well as suggested notes / snippets for new software engineers getting into the business of full stack development.
+The pages titled [Projects](https://trevorghseay.github.io/goto-Toggle/Projects) and [Practice](https://trevorghseay.github.io/goto-Toggle/Practice) are dedicated to displaying the varying sorts of programming I myself work on regularily, as well as suggested notes / snippets for new software engineers getting into the business of full stack development.
 
 If you have any questions or feedback regarding my page, past / previous work or to express interest in a new project, you can visit the [Contact](https://trevorghseay.github.io/goto-Toggle/Contact) section for more information.
 
