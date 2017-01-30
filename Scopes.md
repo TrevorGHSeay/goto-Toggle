@@ -52,9 +52,9 @@ Keeping in mind that (ordinarily) computers are literal slaves that will do exac
 
 The answer to this question is in how we learn. In a few cases I've seen programmers attempt to learn variable manipulation, method creation or even event raising first, without first knowing what they're doing or why it works. This is why I'm going to run through scoping as briefly as I can: so as to give the reader a "heads-up" for the termage, perspective and mindframe that I myself use to visualize a program before creating it.
 
-So we know that scopes are kinda like guidelines, but that isn't saying much. To understand most C# code, you should first be aware of the most common scopes found at an elemental level:
+So we know that scopes are kinda like guidelines, but that isn't saying much. To understand most C# code, you should first be aware of the most important scopes found at an elemental level:
 
-    [Namespaces](https://msdn.microsoft.com/en-us/library/z2kcy19k.aspx), classes/structs, methods, conditionals, and loops.
+    Namespaces, classes/structs, interfaces, enumerables, delegates, methods, conditionals, and loops.
     
 #### Namespaces
 
@@ -77,3 +77,41 @@ Easy enough. This is in fact all a namespace really is at the text level; if you
 #### Conditionals
 
 #### Loops
+
+
+
+    namespace
+    {
+        class  
+        {
+            global variable
+            
+            method
+            {
+                local variable
+            }
+        }
+
+        interface 
+        {
+        }
+
+        struct
+        { 
+        }
+
+        enum 
+        {
+            a, 
+            b 
+        }
+
+        delegate
+
+        namespace SampleNamespace.Nested
+        {
+            class 
+            { 
+            }
+        }
+    }
