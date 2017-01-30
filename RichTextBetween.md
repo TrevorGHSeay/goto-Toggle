@@ -1,6 +1,6 @@
 ### RichTextBetween
 
-This method is meant to be used as a wrapper for to grab the text string between two locations in a WPF Rich Text Box.
+This method is meant to be used as a wrapper for to grab the text string between two locations in a WPF RichTextBox.
 
     string RichTextBetween(TextPointer start, Textpointer end)
     {
