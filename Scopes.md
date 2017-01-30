@@ -54,13 +54,21 @@ The answer to this question is in how we learn. In a few cases I've seen program
 
 So we know that scopes are kinda like guidelines, but that isn't saying much. To understand most C# code, you should first be aware of the most common scopes found at an elemental level:
 
-    Namespaces, classes/structs, methods, conditionals, and loops.
+    [Namespaces](https://msdn.microsoft.com/en-us/library/z2kcy19k.aspx), classes/structs, methods, conditionals, and loops.
     
 #### Namespaces
 
 Namespaces can be thought of as a group of code's nickname, or alias. Within namespaces lie the mechanics for essentially all executable programs, video games, and blocks of programming that you will be working with in the future. They are the literal 'name space' which is occupied on the computer for to be referenced by seperate programming from its own (or not).
 
-Because of this, many developers find it useful to use a single namespace for each entire project because it requires extra work to reference a different namespace than the one you're currently in. Don't worry; this is all a little ahead of you right now so I'm not going to rest my lesson on your understanding of this concept yet - just think of namespaces as the name you would use to refer to an outline of action(s) you've already explained how to do before, in another project. It's also what you'll use to hold the entirety of each of your first few programs. Easy enough.
+Because of this, many developers find it useful to use a single namespace for each entire project because it requires extra work to reference a different namespace than the one you're currently in. Don't worry; this is all a little ahead of you right now so I'm not going to rest my lesson on your understanding of this concept yet - just think of namespaces as the name you would use to refer to an outline of action(s) you've already explained how to do before, in another project. It's also what you'll use to hold the entirety of each of your first few programs. 
+
+    namespace HelloWorldApp
+    {
+    
+    
+    }
+
+Easy enough. This is in fact all a namespace really is at the text level; if you were to enter this into a 
 
 #### Classes / Structs
 
