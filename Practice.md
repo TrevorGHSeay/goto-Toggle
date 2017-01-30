@@ -8,8 +8,8 @@ In this section I'll be covering some intricate basics that every beginner might
 Why? Well, there are three reasons I personally prefer C# over other, more traditional, languages:
 
 1. It works on virtually any machine. Because C# was written with other computers in mind, the compilation process converts C# first into bytecode (for which most machines have their own compilers) - and so permits compilation on nearly any machine without the need for further conversion. Since most compilers include this step built-in, this means much less work as a programmer for to worry about it while (and after) creating your program.
-2. Because C#  has been widely supported since its conception, it is supported with the .NET framework (build primarily for Windows) to aid with web application, data management, object orientation, graphics and user interfacing - to name a few uses.
-3. It's readable, familiar, and doesn't have intimacy issues. C# looks, feels and reads very similarly to many popular programming languages, as is easily translatable, so beneficial as a language to have for connecting them, if at all. Also, C# has explicitly defined scopes for quick and concise debug analyses.
+2. Because C#  has been widely supported since its conception, it is supported with the .NET framework (built primarily for Windows) to aid with web application, data management, object orientation, graphics and user interfacing - to name a few uses.
+3. It's readable, familiar, and doesn't have intimacy issues. C# looks, feels, and reads very similarly to many popular programming languages - as is easily translatable - so beneficial as a language to have for connecting them, if at all. Also, C# has explicitly defined scopes for quick and concise debug analyses.
 
 So - in hopes my image is maintained through my choice in language - I'll move onto some of the things that I think all new programmers should know before starting (or those of you who understand basic variable manipulation in at least one language). 
 
