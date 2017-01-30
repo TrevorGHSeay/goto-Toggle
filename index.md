@@ -22,3 +22,5 @@ Check out the [Practice](https://trevorghseay.github.io/goto-Toggle/Practice) se
 
 1. [Tutorials](https://trevorghseay.github.io/goto-Toggle/Tutorials) are a great way to get a better understanding for how intricate formulations work, which is why every example provided is detailed intricately within the premise that the reader holds only a loose grasp on the subjected language. 
 2. Likewise, there are also some [Useful Snippets](https://trevorghseay.github.io/goto-Toggle/UsefulSnippets) (both in-context and practical) for a few subjects the writer deems interesting or -as implied- potentially useful to you, the reader.
+
+You can always use the [Site Map](https://trevorghseay.github.io/goto-Toggle/Site-Map) to navigate the page, too.
