@@ -15,3 +15,10 @@
       - [Scopes](https://trevorghseay.github.io/goto-Toggle/Scopes)
     
     - [Useful Snippets](https://trevorghseay.github.io/goto-Toggle/UsefulSnippets)
+    
+      - [SubstringBetween](https://trevorghseay.github.io/goto-Toggle/SubstringBetween)
+      
+      - [RichTextBetween](https://trevorghseay.github.io/goto-Toggle/RichTextBetween)
+      
+      - [Print2DArray](https://trevorghseay.github.io/goto-Toggle/rint2DArray)
+      
