@@ -27,7 +27,7 @@ As you can see, it's far simpler than the engineering of a processor leads the p
 
 As confusing as it might seem, every single character in the lines I've shown are necessary and serve a vital purpose in how a computer might interpret what's been written.
 
-###So how did I know what stuff to write?
+### So how did I know what stuff to write?
 
 Check out the **[next tutorial](https://trevorghseay.github.io/goto-Toggle/Scopes)**!
 
