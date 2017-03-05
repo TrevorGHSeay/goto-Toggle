@@ -1,5 +1,5 @@
 # Projects
-Below you will find two lists of completed and ongoing products accredited to me and that I have worked on myself.
+Below you will find two lists of completed and ongoing products accredited to me and that I have completed myself.
 
 [Contact Me](https://trevorghseay.github.io/goto-Toggle/Contact)
 
