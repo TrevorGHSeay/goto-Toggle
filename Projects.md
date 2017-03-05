@@ -18,7 +18,9 @@ _MMO-RCE-RPG Video Game_
 _User-End API & Custom Language_
 
 ##### [HoloCam](https://trevorghseay.github.io/goto-Toggle/HoloCam)
-**_A Method for Rendering a 3D Minimap of Your Surroundings_**
+**_A 3D Camera for All_**
+
+_A Method for Rendering a 3D Minimap of Your Surroundings_
 
 ## Ongoing
 
