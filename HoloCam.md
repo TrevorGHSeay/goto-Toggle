@@ -2,6 +2,6 @@ The HoloCam and HoloScreen, when combined, provide a way for Second Life® users
 
 This method can be invaluable to those who need to know who is in an area, and exactly where at any given time.
 
-**[HoloCam](https://marketplace.secondlife.com/p/HoloCam/11139541)**
+**[Marketplace Listing](https://marketplace.secondlife.com/p/HoloCam/11139541)**
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Projects)
