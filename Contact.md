@@ -6,6 +6,6 @@ Please leave all professional questions (hiring, project discussion, contract ar
 
 
 #### Professional Contact Info
-[trevorghseay@gmail.com](trevorghseay@gmail.com)
+[trevorghseay@gmail.com](mailto:trevorghseay@gmail.com)
 
 [Home Page](https://trevorghseay.github.io/goto-Toggle/index)
