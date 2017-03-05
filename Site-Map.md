@@ -5,6 +5,8 @@
     - [Cosmos Master](https://trevorghseay.github.io/goto-Toggle/CosmosMaster)
     
     - [The Alder Method](https://trevorghseay.github.io/goto-Toggle/TheAlderMethod)
+    
+    - [HoloCam](https://trevorghseay.github.io/goto-Toggle/HoloCam)
 
   - [Practice](https://trevorghseay.github.io/goto-Toggle/Practice)
   
