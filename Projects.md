@@ -22,6 +22,11 @@ _User-End API & Custom Language_
 
 _A Method for Rendering a 3D Minimap of Your Surroundings_
 
+##### [Matrices](https://trevorghseay.github.io/goto-Toggle/Matrices)
+**_A Floating-Point Matrix Library_**
+
+_A Little Something For Everybody_
+
 ## Ongoing
 
 ##### [Content Hidden](https://trevorghseay.github.io/goto-Toggle/ContentHidden)
