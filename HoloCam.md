@@ -9,7 +9,7 @@ This method can be invaluable to those who need to know who is in an area, and e
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Projects)
 
 
-Screen:
+### Screen:
 
     key owner;
 
@@ -246,7 +246,7 @@ Screen:
 
     }
 
-Camera:
+### Camera:
 
     key owner;
     key tetherUUID;
