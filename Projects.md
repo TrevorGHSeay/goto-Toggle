@@ -22,6 +22,11 @@ _User-End API & Custom Language_
 
 _A Method for Rendering a 3D Minimap of Your Surroundings_
 
+##### [PictoCam](https://trevorghseay.github.io/goto-Toggle/PictoCam)
+**_A 2D Camera for All_**
+
+_A Method for Rendering a 2D, Low-FPS Video-Stream of Your Surroundings_
+
 ##### [Matrices](https://trevorghseay.github.io/goto-Toggle/Matrices)
 **_A Floating-Point Matrix Library_**
 
