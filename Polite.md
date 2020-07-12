@@ -4,7 +4,7 @@ Polite is a Lexing, Parsing, Runtime, and Compiler framework designed for easy c
 
 To find out more about The Polite Framework, you can visit its repository, located here on GitHub, by clicking the link below.
 
-[Open Source Repo](https://github.com/TrevorGHSeay/Polite)
+**[Open Source Repo](https://github.com/TrevorGHSeay/Polite)**
 
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/Projects)
