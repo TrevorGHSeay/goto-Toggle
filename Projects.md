@@ -5,6 +5,13 @@ Below you will find two lists of completed and ongoing products accredited to me
 
 [Go Back](https://trevorghseay.github.io/goto-Toggle/index)
 
+## Ongoing
+
+##### [The Polite Framework](https://trevorghseay.github.io/goto-Toggle/Polite)
+**_.NET Languages for All_**
+
+_Lets programmers create their own statically-type-inferred, .NET language_
+
 ## Completed
 
 ##### [The Alder Method](https://trevorghseay.github.io/goto-Toggle/TheAlderMethod)
@@ -31,10 +38,3 @@ _A Method for Rendering a 2D, Low-FPS Video-Stream of Your Surroundings_
 **_A Floating-Point Matrix Library_**
 
 _A Little Something For Everybody_
-
-## Ongoing
-
-##### [The Polite Framework](https://trevorghseay.github.io/goto-Toggle/Polite)
-**_.NET Languages for All_**
-
-_Lets programmers create their own statically-type-inferred, .NET language_
