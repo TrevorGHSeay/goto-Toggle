@@ -26,18 +26,18 @@ Similarly, the process for visualizing statements to be inquired and their corre
     
     If the dog is brown
     {
-        remember that the statement is true  
+        remember that the previous statement is true  
     }
     else
     {
-        remember that the statement is false
+        remember that the previous statement is false
     }
     
 Not coincidentally, you'll likely notice - if you're already familiar with basic programming - that the above is in fact very similar already to how it would be written in code (particularily C#). To contrast its hypothetical form:
 
     bool the_dog_is_brown;
     
-    if (dog.Color == Brushes.Brown)
+    if (dog.Color == Colors.Brown)
     {
         the_dog_is_brown = true;
     }
@@ -48,29 +48,85 @@ Not coincidentally, you'll likely notice - if you're already familiar with basic
 
 But what does all this jibber-jabber mean? Well, for starters, it goes to show that you already understand coding on a fundamental level; and that level is logic.
 
-Keeping in mind that (ordinarily) computers are literal slaves that will do exactly as asked - no more, and no less - so only particular 'arguments' are performed at certain times, and the timing is also mostly up to you. So why are you learning all this first?
+Keeping in mind that (ordinarily) computers are, quite literally, slaves that will do exactly as asked - no more, and no less - so only particular 'statements' are performed at certain times, and the timing is also mostly up to you. So why are you learning all this first?
 
 The answer to this question is in how we learn. In a few cases I've seen programmers attempt to learn variable manipulation, method creation or even event raising first, without first knowing what they're doing or why it works. This is why I'm going to run through scoping as briefly as I can: so as to give the reader a "heads-up" for the termage, perspective and mindframe that I myself use to visualize a program before creating it.
 
 So we know that scopes are kinda like guidelines, but that isn't saying much. To understand most C# code, you should first be aware of the most important scopes found at an elemental level:
 
-    Namespaces, classes/structs, interfaces, enumerables, delegates, methods, conditionals, and loops.
+    Namespaces, classes/structs, interfaces, enumerables, methods, conditionals, and loops.
     
 #### Namespaces
 
-Namespaces can be thought of as a group of code's nickname, or alias. Within namespaces lie the mechanics for essentially all executable programs, video games, and blocks of programming that you will be working with in the future. They are the literal 'name space' which is occupied on the computer for to be referenced by seperate programming from its own (or not).
+Namespaces can be thought of as a group of code's nickname, or alias. Within namespaces lie the mechanics for essentially all executable programs, video games, and blocks of programming that you will be working with in the future. They are the literal 'name space' which is occupied on the computer for to be referenced by seperate programming from its own (or not). You can imagine them as identifiers for groups of concepts that you might call on later.
 
-Because of this, many developers find it useful to use a single namespace for each entire project because it requires extra work to reference a different namespace than the one you're currently in. Don't worry; this is all a little ahead of you right now so I'm not going to rest my lesson on your understanding of this concept yet - just think of namespaces as the name you would use to refer to an outline of action(s) you've already explained how to do before, in another project. It's also what you'll use to hold the entirety of each of your first few programs. 
+Because of this, many developers find it useful to use a single namespace for each entire project because it requires extra work to reference a different namespace than the one you're currently in. Don't worry; this is all a little ahead of you right now so I'm not going to rest my lesson on your understanding of this concept yet - just think of namespaces as the name you would use to refer to an outline of action(s) you're explaining how to do. It's also what you'll use to hold the entirety of each of your first few programs. 
 
-    namespace HelloWorldApp
-    {
-    
-    
-    }
+```csharp
+namespace HelloWorldApp
+{
 
-Easy enough. This is in fact all a namespace really is at the text level; if you were to enter this into a 
+}
+```
+
+Easy enough. This is in fact all a namespace really is at the text level; if you were to enter this into a code editor, and attempt to compile it, it will work with no errors attached to it. You can imagine it representing a nickname for an idea - or concept - that's yet to be articulated.
 
 #### Classes / Structs
+
+Classes and Structs occupy a special space in the Object-Oriented-Programming ecosphere; at their fundamental level, they let us define objects - or, more specifically, nouns. Classes and Structs, however, are not those nouns. Conceptually, they're something of a blueprint that describes a noun that might be used later in the way you imply with the blueprint itself. There are more similarities between Classes and Structs than there are differences, on the programming level, and should be seen to derive from the aforementioned description: they are a description of a noun.
+
+You can imagine making the blueprint for a house; the blueprint is not the house but, rather, describes what a house will have, do, and - perhaps - why. You may later use said blueprint to *construct* an actual house, and this is the extent of the connection between both blueprint and object. To better understand how this connection and how it applies to the difference between Classes and Structs, you must first understand the difference between a *reference* and *value* type.
+
+###### Reference Types
+
+Reference types *refer* to things. If I tell you that there's a coffee shop on the corner, which we both frequent, then it can be said that we're now both referring to the same cafe. You don't need to be standing next to it, and neither must you touch it; simply by referring to it we can come to some concensus about what we're talking about. Likewise, if the shop is then altered, then both our understandings of this house will change automatically, because we'll both see the changes that were made. This concept is what we refer to as a reference type: an object that sits independently from outside either of points of perception is something we *refer* to.
+
+###### Value Types
+
+A Value type is, unlike a reference type, dependent on the point of perception. Presume we're both holding an apple of the same variety, shape, and colour; these apples are, for practical purposes, identical in every way and so we can go on to describe our own apple and know it'll be understood and agreed upon by the other. If I were then to take a bite from my apple, however, then our points of perception becomes important; because they're two different apples, it can be said they have - implicitly - two difference dimensions of values. Even though they were originally identical (quantitatively), and we were both talking about the same concept, the object we were each describing was no more than our own apple (qualitatively). In this way, it is not a shared perception but, rather, two completely different apples; if I wanted to give you my apple, presuming we defined an apple to be a value type programmatically, then I must first duplicate that apple and give it to you for us to each take part in the consumption of an apple that has the same quantitative experience.
+
+##### Classes
+
+Classes are reference types. This means that when I refer to a coffee shop that was defined (remember, like a blueprint) using class notation, then we will be allowed to pass around by pointing my finger at the actual cafe - which will exist irrespective of either of our points of reference. It need not be copied, or described again; if I want to change it, then I can simply make changes to the original cafe and then my pointing finger need not change because the cafe is still in the same place (albeit iteself having been altered). The point is, it's still the same object and still exists at the same location conceptually. This is what classes are for: to be pointed at and agreed upon by many sources or, in other circumstances, to make broad changes to an idea that many other nouns understand or interact with.
+
+```csharp
+class Cafe
+{
+
+}
+```
+
+##### Structs
+
+Structs are value types. This makes the apple we were refering to best suited as a candidate for struct notation so we may duplicate the original object at will without risking altering the original (in case someone wants to take a bite). We can give out as many copies of the original apple as we want, but there will only ever be one of the original apple that you began giving out; we're not point at an apple on the table because, then, anyone might take a bite out of our apple (which is clearly undesirable).
+
+```csharp
+struct Apple
+{
+
+}
+```
+
+##### Tying It Together
+
+Namespaces being the nickname for a set of concepts and instructions that are organized as relations, we must take our classes and structs and put them inside a namespace if we want to use those concepts properly. It looks like this:
+
+```csharp
+namespace HelloWorldApp
+{
+
+    class Cafe
+    {
+
+    }
+    
+    struct Apple
+    {
+
+    }
+    
+}
+```
 
 #### Methods
 
