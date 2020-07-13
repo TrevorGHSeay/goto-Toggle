@@ -63,7 +63,7 @@ Namespaces can be thought of as a group of code's nickname, or alias. Within nam
 Because of this, many developers find it useful to use a single namespace for each entire project because it requires extra work to reference a different namespace than the one you're currently in. Don't worry; this is all a little ahead of you right now so I'm not going to rest my lesson on your understanding of this concept yet - just think of namespaces as the name you would use to refer to an outline of action(s) you're explaining how to do. It's also what you'll use to hold the entirety of each of your first few programs. 
 
 ```csharp
-namespace GroupOfConceptsOrIdeas
+namespace ProgrammingExplanation
 {
 
 }
@@ -112,7 +112,7 @@ struct Apple
 Namespaces being the nickname for a set of concepts and instructions that are organized as relations, we must take our classes and structs and put them inside a namespace if we want to use those concepts properly:
 
 ```csharp
-namespace GroupOfConceptsOrIdeas
+namespace ProgrammingExplanation
 {
 
     class Cafe
@@ -130,10 +130,10 @@ namespace GroupOfConceptsOrIdeas
 
 #### Methods
 
-Given that namespaces are nicknames for a group of concepts or ideas, and that classes/structs are blueprints (or descriptions) for a noun, we can extend the analogy further by conceptualizing methods as the description of *verbs*. Keeping in mind that concepts and ideas cannot act but, rather, that nouns can, it stands to reason that we may only describe the orders to carry out a verb to those nouns. You can now refer back to a cafe and acknowledge that a cafe may open or close; this means that, if we wish to describe how a cafe might do these things, we need to establish that there are instructions it needs to follow in order to complete those tasks. Likewise, we may describe an apple's capacity to decompose:
+Given that namespaces are nicknames for a group of concepts or ideas, and that classes/structs are blueprints (or descriptions) of any particular noun, we can extend the analogy further by conceptualizing methods as the description of *verbs*. Keeping in mind that concepts and ideas cannot act but, rather, that nouns can, it stands to reason that we may only describe the orders to carry out a verb to those nouns. You can now refer back to a cafe and acknowledge that a cafe may open or close; this means that, if we wish to describe how a cafe might do these things, we need to establish that there are instructions it needs to follow in order to complete those tasks. Likewise, we may also want to describe an apple's proclivity to decompose:
 
 ```csharp
-namespace GroupOfConceptsOrIdeas
+namespace ProgrammingExplanation
 {
 
     class Cafe
@@ -164,6 +164,143 @@ namespace GroupOfConceptsOrIdeas
 }
 ```
 
+It is in this way that we begin to give life to our program: by describing these things as related to each other (in that they both share a space in this tutorial), we give them a place in the same namespace. To do this, we must put those descriptions inside the namespace declaration itself, and nest all things related to those things inside of their own descriptions (like we'd done with the three aforementioned methods). This is the basis for Object-Oriented-Programming (OOP), as it lets us organize our thoughts so we might call on them later to do work.
+
 #### Conditionals
 
+Conditionals are a bridge into the next chapter, where we will be discussing statements. Statements being the actual instructions that a program follows, and not just the overarching structure of it, Conditionals are statements that allow us to take a varying course of action depending on a *condition*. A condition must evaluate to either a true or a false value (technically refered to as a boolean). We'll leave the specifics out of the picture for this chapter, but the most important thing to remember is their function and scoping mechanism; if the condition that a conditional evaluated then happens to be false, the computer does not perform whatever is inside its scope - likewise, when that condition is determined to be true, the computer carries out all instructions that the conditional's scopes has laid out. We can also catch if the condition evaluates as false, and carry out those instructions instead:
+
+```csharp
+if(cafe.isOpen)
+{
+    // Do something that can only be done when the cafe is open
+}
+else
+{
+    // Do something that can only be done once the cafe is closed
+}
+```
+
+Typing it all together again, we can now do something like this:
+
+```csharp
+namespace ProgrammingExplanation
+{
+
+    class Cafe
+    {
+    
+        void Open()
+        {
+            if(isOpen)
+            {
+                // Do something that can only be done when the cafe is open
+            }
+            else
+            {
+                // Do something that can only be done once the cafe is closed
+            }
+        }
+        
+        void Close()
+        {
+            if(isOpen)
+            {
+                // Do something that can only be done when the cafe is open
+            }
+            else
+            {
+                // Do something that can only be done once the cafe is closed
+            }
+        }
+
+    }
+    
+    struct Apple
+    {
+
+        void Decompose()
+        {
+            if(isOld)
+            {
+                // Instruct on how to decompose
+            }
+        }
+
+    }
+    
+}
+```
+
 #### Loops
+
+Loops, like conditionals, also require a condition; there are three main types of loops but they all share the same concept, however, and so really only have one main idea behind them that must be understood before using them in code: loops, unlike conditionals, **repeat** the instructions that are inside their scope ``while`` the condition is true. Loops, then, let us do the same thing many times without needing to write it out as many times as we want them to do it, and that makes our lives (as programmers) notably simpler. All we need to do is write the instructions we want to have repeatedly performed once, and stick it inside the scope of a loop:
+
+
+```csharp
+if(cafe.isOpen)
+{
+    // Do something that can only be done when the cafe is open
+}
+else
+{
+    // Do something that can only be done once the cafe is closed
+}
+```
+
+Typing it all together again, we can now do something like this:
+
+```csharp
+namespace ProgrammingExplanation
+{
+
+    class Cafe
+    {
+    
+        void Open()
+        {
+            if(isOpen)
+            {
+                // Do something that can only be done when the cafe is open
+            }
+            else
+            {
+                // Do something that can only be done once the cafe is closed
+            }
+        }
+        
+        void Close()
+        {
+            if(isOpen)
+            {
+                // Do something that can only be done when the cafe is open
+            }
+            else
+            {
+                // Do something that can only be done once the cafe is closed
+            }
+        }
+
+    }
+    
+    struct Apple
+    {
+
+        void Decompose()
+        {
+        
+            while(isNotOld)
+            {
+                // Get older
+            }
+        
+            if(isOld)
+            {
+                // Instruct on how to decompose
+            }
+        }
+
+    }
+    
+}
+```
