@@ -63,7 +63,7 @@ Namespaces can be thought of as a group of code's nickname, or alias. Within nam
 Because of this, many developers find it useful to use a single namespace for each entire project because it requires extra work to reference a different namespace than the one you're currently in. Don't worry; this is all a little ahead of you right now so I'm not going to rest my lesson on your understanding of this concept yet - just think of namespaces as the name you would use to refer to an outline of action(s) you're explaining how to do. It's also what you'll use to hold the entirety of each of your first few programs. 
 
 ```csharp
-namespace HelloWorldApp
+namespace GroupOfConceptsOrIdeas
 {
 
 }
@@ -109,10 +109,10 @@ struct Apple
 
 ##### Tying It Together
 
-Namespaces being the nickname for a set of concepts and instructions that are organized as relations, we must take our classes and structs and put them inside a namespace if we want to use those concepts properly. It looks like this:
+Namespaces being the nickname for a set of concepts and instructions that are organized as relations, we must take our classes and structs and put them inside a namespace if we want to use those concepts properly:
 
 ```csharp
-namespace HelloWorldApp
+namespace GroupOfConceptsOrIdeas
 {
 
     class Cafe
@@ -130,44 +130,40 @@ namespace HelloWorldApp
 
 #### Methods
 
+Given that namespaces are nicknames for a group of concepts or ideas, and that classes/structs are blueprints (or descriptions) for a noun, we can extend the analogy further by conceptualizing methods as the description of *verbs*. Keeping in mind that concepts and ideas cannot act but, rather, that nouns can, it stands to reason that we may only describe the orders to carry out a verb to those nouns. You can now refer back to a cafe and acknowledge that a cafe may open or close; this means that, if we wish to describe how a cafe might do these things, we need to establish that there are instructions it needs to follow in order to complete those tasks. Likewise, we may describe an apple's capacity to decompose:
+
+```csharp
+namespace GroupOfConceptsOrIdeas
+{
+
+    class Cafe
+    {
+    
+        void Open()
+        {
+        
+        }
+        
+        void Close()
+        {
+        
+        }
+
+    }
+    
+    struct Apple
+    {
+
+        void Decompose()
+        {
+        
+        }
+
+    }
+    
+}
+```
+
 #### Conditionals
 
 #### Loops
-
-
-
-    namespace
-    {
-        class  
-        {
-            global variable
-            
-            method
-            {
-                local variable
-            }
-        }
-
-        interface 
-        {
-        }
-
-        struct
-        { 
-        }
-
-        enum 
-        {
-            a, 
-            b 
-        }
-
-        delegate
-
-        namespace SampleNamespace.Nested
-        {
-            class 
-            { 
-            }
-        }
-    }
