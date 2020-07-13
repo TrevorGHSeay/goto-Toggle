@@ -100,7 +100,7 @@ class Cafe
 
 ##### Structs
 
-Structs are value types. This makes the apple we were refering to best suited as a candidate for struct notation so we may duplicate the original object at will without risking altering the original (in case someone wants to take a bite). We can give out as many copies of the original apple as we want, but there will only ever be one of the original apple that you began giving out; we're not point at an apple on the table because, then, anyone might take a bite out of our apple (which is clearly undesirable).
+Structs are value types. This makes the apple we were refering to best suited as a candidate for struct notation so we may duplicate the original object at will without risking altering the original (in case someone wants to take a bite). We can give out as many copies of the original apple as we want, but there will only ever be one of the original apple that you began giving out; we're not pointing at an apple on the table because, then, anyone might take a bite out of our apple (which is clearly undesirable).
 
 ```csharp
 struct Apple
