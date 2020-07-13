@@ -116,7 +116,6 @@ Namespaces being the nickname for a set of concepts and instructions that are or
 ```csharp
 namespace ProgrammingExplanation
 {
-
     class Cafe
     {
 
@@ -126,7 +125,6 @@ namespace ProgrammingExplanation
     {
 
     }
-    
 }
 ```
 
@@ -137,10 +135,8 @@ Given that namespaces are nicknames for a group of concepts or ideas, and that c
 ```csharp
 namespace ProgrammingExplanation
 {
-
     class Cafe
     {
-    
         void Open()
         {
         
@@ -150,17 +146,14 @@ namespace ProgrammingExplanation
         {
         
         }
-
     }
     
     struct Apple
     {
-
         void Decompose()
         {
         
         }
-
     }
     
 }
@@ -188,10 +181,8 @@ Typing it all together again, we can now do something like this:
 ```csharp
 namespace ProgrammingExplanation
 {
-
     class Cafe
     {
-    
         void Open()
         {
             if(isOpen)
@@ -215,12 +206,10 @@ namespace ProgrammingExplanation
                 // Do something that can only be done once the cafe is closed
             }
         }
-
     }
     
     struct Apple
     {
-
         void Decompose()
         {
             if(isOld)
@@ -228,9 +217,7 @@ namespace ProgrammingExplanation
                 // Instruct on how to decompose
             }
         }
-
     }
-    
 }
 ```
 
@@ -255,10 +242,8 @@ Typing it all together again, we can now do something like this:
 ```csharp
 namespace ProgrammingExplanation
 {
-
     class Cafe
     {
-    
         void Open()
         {
             if(isOpen)
@@ -282,15 +267,12 @@ namespace ProgrammingExplanation
                 // Do something that can only be done once the cafe is closed
             }
         }
-
     }
     
     struct Apple
     {
-
         void Decompose()
         {
-        
             while(isNotOld)
             {
                 // Get older
@@ -301,8 +283,6 @@ namespace ProgrammingExplanation
                 // Instruct on how to decompose
             }
         }
-
     }
-    
 }
 ```
