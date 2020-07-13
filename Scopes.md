@@ -89,7 +89,7 @@ A Value type is, unlike a reference type, dependent on the point of perception. 
 
 ##### Classes
 
-Classes are reference types. This means that when I refer to a coffee shop that was defined (remember, like a blueprint) using class notation, then we will be allowed to pass around by pointing my finger at the actual cafe - which will exist irrespective of either of our points of reference. It need not be copied, or described again; if I want to change it, then I can simply make changes to the original cafe and then my pointing finger need not change because the cafe is still in the same place (albeit iteself having been altered). The point is, it's still the same object and still exists at the same location conceptually. This is what classes are for: to be pointed at and agreed upon by many sources or, in other circumstances, to make broad changes to an idea that many other nouns understand or interact with.
+Classes are reference types. This means that when I refer to a coffee shop that was defined (remember, like a blueprint) using class notation, then we will be allowed to pass around by pointing my finger at the actual cafe - which will exist irrespective of either of our points of reference. It need not be copied, or described again; if I want to change it, then I can simply make changes to the original cafe and then my pointing finger need not change because the cafe is still in the same place (albeit iteelf having been altered). The point isthat it's still the same object and still exists at the same location conceptually. This is what classes are for: to be pointed at and agreed upon by many sources or, in other circumstances, to make broad changes to an idea that many other nouns understand or interact with.
 
 ```csharp
 class Cafe
