@@ -237,7 +237,7 @@ else
 }
 ```
 
-Putting it all together, we can now do something like this:
+Putting it all together, we now get something like this:
 
 ```csharp
 namespace ProgrammingExplanation
