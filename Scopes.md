@@ -163,7 +163,7 @@ It is in this way that we begin to give life to our program: by describing these
 
 #### Conditionals
 
-Conditionals are a bridge into the next chapter, where we will be discussing statements. Statements being the actual instructions that a program follows, and not just the overarching structure of it, Conditionals are statements that allow us to take a varying course of action depending on a *condition*. A condition must evaluate to either a true or a false value (technically refered to as a boolean). We'll leave the specifics out of the picture for this chapter, but the most important thing to remember is their function and scoping mechanism; if the condition that a conditional evaluated then happens to be false, the computer does not perform whatever is inside its scope - likewise, when that condition is determined to be true, the computer carries out all instructions that the conditional's scopes has laid out. We can also catch if the condition evaluates as false, and carry out those instructions instead:
+Conditionals are a bridge into the next chapter, where we will be discussing statements. Statements being the actual instructions that a program follows, and not just the overarching structure of it, Conditionals are statements that allow us to take a varying course of action depending on a *condition*. A condition must evaluate to either a true or a false value (technically refered to as a boolean). We'll leave the specifics out of the picture for this chapter, but the most important thing to remember is their function and scoping mechanism; if the condition that a conditional evaluated then happens to be false, the computer does not perform whatever is inside its scope - likewise, when that condition is determined to be true, the computer carries out all instructions that the conditional's scope has laid out. We can also catch if the condition evaluates as false, and carry out those instructions instead:
 
 ```csharp
 if(cafe.isOpen)
@@ -223,7 +223,7 @@ namespace ProgrammingExplanation
 
 #### Loops
 
-Loops, like conditionals, also require a condition; there are three main types of loops but they all share the same concept, however, and so really only have one main idea behind them that must be understood before using them in code: loops, unlike conditionals, **repeat** the instructions that are inside their scope ``while`` the condition is true. Loops, then, let us do the same thing many times without needing to write it out as many times as we want them to do it, and that makes our lives (as programmers) notably simpler. All we need to do is write the instructions we want to have repeatedly performed once, and stick it inside the scope of a loop:
+Loops, like conditionals, also require a condition; there are three main types of loops but they all share the same concept, however, and so really only have one main idea behind them that must be understood before using them in code: loops, unlike conditionals, **repeat** the instructions that are inside their scope ``while`` the condition is true. Loops, then, let us do the same thing many times without needing to write it out as many times as we want the computer to do it, and that makes our lives (as programmers) notably simpler. All we need to do is write the instructions we want to have repeatedly performed once, and stick it inside the scope of a loop:
 
 
 ```csharp
