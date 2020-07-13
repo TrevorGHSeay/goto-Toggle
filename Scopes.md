@@ -35,6 +35,7 @@ Similarly, the process for visualizing statements to be inquired and their corre
     
 Not coincidentally, you'll likely notice - if you're already familiar with basic programming - that the above is in fact very similar already to how it would be written in code (particularily C#). To contrast its hypothetical form:
 
+```csharp
     bool the_dog_is_brown;
     
     if (dog.Color == Colors.Brown)
@@ -45,6 +46,7 @@ Not coincidentally, you'll likely notice - if you're already familiar with basic
     {
         the_dog_is_brown = false;
     }
+```
 
 But what does all this jibber-jabber mean? Well, for starters, it goes to show that you already understand coding on a fundamental level; and that level is logic.
 
